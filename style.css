@@ -1,0 +1,12 @@
+
+.odd{
+    
+    background-color:rgba(159, 232, 57, 0.15);
+}
+.even{
+    background-color:rgba(159, 232, 57, 0.305);
+
+}
+th{
+    background-color: rgba(90, 145, 7, 0.611);
+}
